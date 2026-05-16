@@ -17,9 +17,7 @@ Support the developer: https://www.patreon.com/DragonFire47
 - add the .dll included with this package
 
 ## Features
-- Allows the game client to connect to privately hosted photon servers via IP.  
+- Allows the game client to connect to privately hosted photon servers via IP or via resolving host name.
 - Can save and auto connect on game launch.  
 - Controlled via F5 menu (F5 > Mod Settings > Photon Server Client)
 
-## Known issues
-- Does not handle domain names.
